@@ -4,7 +4,7 @@
 I'm Luís Fernando, I'm a Full Stack developer
 
 <!--
-- 🔭 I’m currently working on RDC Viagens as FrontEnd Developer with React
+- 🔭 I’m currently working on Petz as FrontEnd Developer with React and NextJS
 - 👯 I’m looking to collaborate on freelancer project with React or React-Native
 - ⚡ Technologies: React, React-Native, Node, C# and Angular
 - 📚 Bachelor of Computer Science by Veris IBTA - Brazilian institute of advanced technology, February 2011 - November 2014
