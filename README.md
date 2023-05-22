@@ -2,7 +2,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-luísfernando-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lu%C3%ADs-fernando-r-souza-05b58345/)](https://www.linkedin.com/in/lu%C3%ADs-fernando-r-souza-05b58345/)
 
 I'm Luís Fernando, I'm a Full Stack developer.
-See my website [here](https://www.luiisfernando.dev/)
+
+See my website [here](https://www.luiisfernando.dev/).
 <!--
 - 🔭 I’m currently working on Petz as FrontEnd Developer with React and NextJS
 - 👯 I’m looking to collaborate on freelancer project with React or React-Native
